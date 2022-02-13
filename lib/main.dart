@@ -527,7 +527,7 @@ class _CalculatorState extends State<Calculator> {
                         resultfinal = '';
                         value2 = 0;
                       }
-                      
+
                       presskey = 1;
                       print('press 9');
 
