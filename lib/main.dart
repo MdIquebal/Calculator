@@ -31,7 +31,7 @@ class _CalculatorState extends State<Calculator> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.pink.shade800,
+        backgroundColor: Colors.teal.shade700,
         centerTitle: true,
         title: Text(
           'Calculator',
@@ -98,7 +98,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '1',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -140,7 +140,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       '2',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -182,7 +182,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '3',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -227,7 +227,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       '+',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -276,7 +276,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       '4',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -318,7 +318,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '5',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -360,7 +360,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       '6',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -405,7 +405,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '-',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -454,7 +454,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '7',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -496,7 +496,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       '8',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -540,7 +540,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '9',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -585,7 +585,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Icon(
                       Icons.clear,
                       size: 24.0,
@@ -618,7 +618,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       'c',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -660,7 +660,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '0',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -716,7 +716,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade600,
+                    color: Colors.teal.shade600,
                     child: Text(
                       '=',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
@@ -761,7 +761,7 @@ class _CalculatorState extends State<Calculator> {
                   },
                   child: Container(
                     alignment: Alignment.center,
-                    color: Colors.pink.shade800,
+                    color: Colors.teal.shade700,
                     child: Text(
                       '/',
                       style: TextStyle(fontSize: 36.0, color: Colors.white),
